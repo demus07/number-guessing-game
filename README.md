@@ -18,4 +18,4 @@ A simple Python program that plays a number guessing game with the user. The pro
 4. Run the script using the following command:
 
 ```shell
-python number_guessing_game.py
+python num_guess.py
